@@ -1,0 +1,77 @@
+=== STDOUT ===
+
+Query: What payment methods does Shopee support?
+------------------------------------------------------------
+  ⚠ Semantic best score (0.208) < threshold (0.48)
+  1. [0.016] [hybrid] ### Using Pronouns to Improve IELTS Essay Coherency
+
+Find out how to use pronoun...
+  2. [0.016] [hybrid] # 100 Real Band 7, 8 + 9 IELTS Writing Task 2 Essay Samples (2026)
+
+**Source:** ...
+  3. [0.016] [hybrid] - What three modal verb structures are used to make the suggestions?
+
+1) How man...
+
+Query: How do I request a return or refund?
+------------------------------------------------------------
+  ⚠ Semantic best score (0.141) < threshold (0.48)
+  1. [0.016] [hybrid] The drawback of a large population of a country turning vegetarian is that some ...
+  2. [0.016] [hybrid] # IELTS Advantage Disadvantage Essay Lesson
+
+**Source:** https://www.ieltsbuddy....
+  3. [0.016] [hybrid] IELTS sample test ques...
+IELTS Trial Test
+Trust IELTS
+What to expect on IELT......
+
+Query: What evidence do I need for a refund request?
+------------------------------------------------------------
+  ⚠ Semantic best score (0.193) < threshold (0.48)
+  1. [0.016] [hybrid] Some details may be missing (or excessive) and further extension or
+illustration...
+  2. [0.016] [hybrid] # 100 Real Band 7, 8 + 9 IELTS Writing Task 2 Essay Samples (2026)
+
+**Source:** ...
+  3. [0.016] [hybrid] d
+n
+a
+B
+
+e Fluency and coherence
+
+r
+o
+c
+S
+
+Lexical resource
+
+Frequent, sometimes...
+
+Query: xyzabc123nonsense
+------------------------------------------------------------
+  ⚠ Semantic best score (0.191) < threshold (0.48)
+  1. [0.016] [hybrid] On the other hand, there is a wide range of conducts to prevents poor health con...
+  2. [0.016] [hybrid] d
+n
+a
+B
+
+e Fluency and coherence
+
+r
+o
+c
+S
+
+Lexical resource
+
+Frequent, sometimes...
+  3. [0.016] [hybrid] . Transitional Phrases for Essays Learn transitional phrases for essays to get a...
+
+=== STDERR ===
+
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1705.73it/s]
+

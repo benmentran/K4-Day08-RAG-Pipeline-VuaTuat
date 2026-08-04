@@ -1,0 +1,6 @@
+=== STDOUT ===
+⚠ Hãy set PAGEINDEX_API_KEY trong file .env
+  Đăng ký tại: https://pageindex.ai/
+
+=== STDERR ===
+

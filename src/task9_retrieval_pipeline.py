@@ -98,11 +98,11 @@ def retrieve(
         print(f"  ⚠ Semantic best score ({best_score:.3f}) < threshold ({score_threshold})")
         try:
             fallback = pageindex_search(query, top_k=top_k)
-        except RuntimeError:
+            if fallback:
+                return fallback
+        except Exception as e:
             # PageIndex chưa được upload/index thì giữ kết quả hybrid hiện có.
-            fallback = []
-        if fallback:
-            return fallback
+            print(f"  ⚠ PageIndex fallback failed: {e}")
 
     return final_results[:top_k]
 

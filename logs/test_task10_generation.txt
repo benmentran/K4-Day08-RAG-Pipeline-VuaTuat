@@ -1,0 +1,295 @@
+=== STDOUT ===
+
+======================================================================
+Q: Sự khác biệt giữa Band 6.0 và Band 7.0 ở tiêu chí Lexical Resource?
+======================================================================
+  ⚠ Semantic best score (0.290) < threshold (0.48)
+
+A: Dưới đây là sự khác biệt giữa Band 6.0 và Band 7.0 ở tiêu chí **Lexical Resource** trong IELTS Writing, dựa trên các nguồn cung cấp:
+
+---
+
+### **Band 6.0 (Competent User)**
+- **Khả năng sử dụng từ vựng**: Đủ để diễn đạt ý tưởng trong các tình huống quen thuộc, nhưng còn hạn chế khi đối mặt với chủ đề phức tạp hoặc không quen thuộc.
+  > *"The test taker has an effective command of the language despite some inaccuracies, inappropriate usage and misunderstandings."*
+  > [IELTS Band Descriptors, 2023]
+
+- **Sai sót trong từ vựng**:
+  - Có thể mắc lỗi trong việc lựa chọn từ ngữ, hình thành từ hoặc chính tả, nhưng không ảnh hưởng nghiêm trọng đến khả năng truyền đạt thông tin.
+  - Sử dụng chủ yếu là từ vựng đơn giản, ít khi sử dụng từ vựng nâng cao hoặc thành ngữ.
+  > *"They can use and understand reasonably complex language, particularly in familiar situations."*
+  > [IELTS Band Descriptors, 2023]
+
+- **Độ chính xác**:
+  - Sai sót trong từ vựng có thể xảy ra, nhưng không quá nhiều đến mức cản trở giao tiếp.
+  > *"Despite some inaccuracies, inappropriate usage and misunderstandings."*
+  > [IELTS Band Descriptors, 2023]
+
+---
+
+### **Band 7.0 (Good User)**
+- **Khả năng sử dụng từ vựng**:
+  - Có khả năng sử dụng từ vựng linh hoạt và chính xác trong hầu hết các ngữ cảnh, bao gồm cả những tình huống không quen thuộc.
+  - Sử dụng được một số từ vựng ít phổ biến hoặc thành ngữ, nhưng vẫn có thể mắc lỗi nhỏ trong cách sử dụng.
+  > *"The resource is sufficient to allow some flexibility and precision. There is some ability to use less common and/or idiomatic items."*
+  > [IELTS Band 7 Writing Explained, 2023]
+
+- **Sai sót trong từ vựng**:
+  - Sai sót trong từ vựng, hình thành từ hoặc chính tả rất ít (chỉ một vài lỗi nhỏ), không ảnh hưởng đến sự rõ ràng của bài viết.
+  - Có nhận thức về phong cách và collocation (sự kết hợp từ), nhưng đôi khi vẫn có thể sử dụng không phù hợp.
+  > *"There are only a few errors in spelling and/or word formation and they do not detract from overall clarity."*
+  > [IELTS Band 7 Writing Explained, 2023]
+
+- **Độ chính xác**:
+  - Phần lớn từ vựng được sử dụng chính xác, thể hiện khả năng kiểm soát tốt vốn từ vựng.
+  > *"An awareness of style and collocation is evident, though inappropriacies occur."*
+  > [IELTS Band 7 Writing Explained, 2023]
+
+---
+### **Tóm tắt sự khác biệt chính**
+| **Tiêu chí**               | **Band 6.0**                                                                 | **Band 7.0**                                                                 |
+|-----------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| **Từ vựng đơn giản**        | Chủ yếu sử dụng từ vựng đơn giản, hạn chế trong chủ đề không quen thuộc.     | Có thể sử dụng từ vựng linh hoạt, bao gồm cả từ vựng ít phổ biến hoặc thành ngữ. |
+| **Sai sót trong từ vựng**   | Sai sót có thể xảy ra, nhưng không ảnh hưởng nghiêm trọng.                  | Sai sót rất ít, hầu như không ảnh hưởng đến sự rõ ràng của bài viết.         |
+| **Collocation & phong cách**| Ít chú ý đến collocation hoặc phong cách.                                   | Có nhận thức về collocation và phong cách, nhưng đôi khi vẫn sử dụng không phù hợp. |
+| **Khả năng diễn đạt**       | Có thể diễn đạt ý tưởng trong các tình huống quen thuộc.                   | Có thể diễn đạt ý tưởng một cách linh hoạt trong hầu hết các ngữ cảnh.      |
+
+---
+### **Chiến lược để nâng từ Band 6.0 lên 7.0**
+1. **Mở rộng vốn từ vựng**: Học và sử dụng từ vựng học thuật (Academic Word List) và thành ngữ (idioms) phù hợp với chủ đề.
+2. **Luyện tập collocation**: Sử dụng các cụm từ kết hợp (collocation) tự nhiên để nâng cao độ chính xác và tự nhiên của bài viết.
+3. **Kiểm tra lỗi từ vựng**: Sau khi viết, dành thời gian kiểm tra lỗi chính tả, hình thành từ và sự phù hợp của từ ngữ.
+4. **Đọc nhiều**: Đọc các bài viết học thuật hoặc báo cáo để học cách sử dụng từ vựng trong ngữ cảnh thực tế.
+5. **Thực hành viết**: Viết thường xuyên và nhờ giáo viên hoặc công cụ chấm điểm (như IELTS Essay Checker) để nhận phản hồi về từ vựng.
+
+---
+Nếu bạn cần thêm chi tiết hoặc ví dụ cụ thể, hãy cho tôi biết!
+
+[Sources: 5 chunks | via hybrid]
+
+======================================================================
+Q: Cách viết đạt Band 8.0 cho Task 2?
+======================================================================
+  ⚠ Semantic best score (0.256) < threshold (0.48)
+
+A: Dưới đây là hướng dẫn chi tiết để đạt **Band 8.0+** cho **IELTS Writing Task 2**, dựa trên **IELTS Band Descriptors (2023)** và phân tích từ các nguồn tham khảo:
+
+---
+
+### **1. Tiêu chí chấm điểm chính (4 tiêu chí)**
+Mỗi tiêu chí chiếm **25%** tổng điểm. Để đạt **Band 8.0**, bạn cần đáp ứng đầy đủ yêu cầu của từng tiêu chí:
+
+#### **A. Task Response (Phản hồi nhiệm vụ)**
+- **Yêu cầu:**
+  - Trả lời **đầy đủ** tất cả các phần của câu hỏi (ví dụ: thảo luận cả hai quan điểm, đưa ra quan điểm cá nhân, giải thích rõ ràng).
+  - **Không lạc đề** hoặc bỏ sót ý chính.
+  - **Phát triển ý** một cách hợp lý với **ví dụ cụ thể** (ít nhất 2–3 ý chính, mỗi ý được mở rộng bằng lý do/luận cứ).
+  - **Vị trí quan điểm** rõ ràng và nhất quán xuyên suốt bài viết.
+
+- **Ví dụ đạt Band 8.0:**
+  > *"While some argue that X is beneficial, I believe Y is more effective because of A, B, and C. For instance, [ví dụ 1]. Additionally, [ví dụ 2]."*
+
+- **Trích dẫn:**
+  > *"The main parts of the prompt are appropriately addressed. A clear and developed position is presented. Main ideas are extended and supported."* [IELTS Band Descriptors, 2023]
+
+---
+
+#### **B. Coherence and Cohesion (Mạch lạc và liên kết)**
+- **Yêu cầu:**
+  - **Cấu trúc bài viết rõ ràng** (mở bài → thân bài 2–3 đoạn → kết luận).
+  - **Mỗi đoạn thân bài** có **1 ý chính** được phát triển đầy đủ (topic sentence + giải thích + ví dụ).
+  - **Sử dụng đa dạng từ nối** (transitions) để liên kết ý:
+    - **Tương phản:** *However, Nevertheless, On the other hand*
+    - **Bổ sung:** *Moreover, Furthermore, In addition*
+    - **Kết quả:** *As a result, Consequently, Therefore*
+  - **Không lặp từ** (sử dụng đại từ, từ đồng nghĩa, hoặc cấu trúc thay thế).
+  - **Lỗi liên kết** (ví dụ: thiếu dấu chấm phẩy, dùng sai từ nối) phải **hiếm khi xảy ra**.
+
+- **Ví dụ đạt Band 8.0:**
+  > *"Firstly, [ý 1]. Secondly, [ý 2]. Finally, [ý 3]. **On the contrary**, some people claim that [ý đối lập]. **Nevertheless**, my view remains unchanged because..."*
+
+- **Trích dẫn:**
+  > *"Information and ideas are logically organised, and there is a clear progression throughout the response. A range of cohesive devices is used flexibly with only minor inaccuracies."* [IELTS Band 7 Descriptors, 2026]
+
+---
+
+#### **C. Lexical Resource (Vốn từ vựng)**
+- **Yêu cầu:**
+  - **Sử dụng từ vựng đa dạng** (không lặp lại cùng một từ).
+  - **Từ vựng học thuật** (academic vocabulary) chiếm **30–40%** bài viết (ví dụ: *subsequently* thay cho *then*, *facilitate* thay cho *help*).
+  - **Ít lỗi từ vựng** (sai nghĩa, sai collocation, sai chính tả).
+  - **Sử dụng idioms/phrases** một cách tự nhiên (ví dụ: *"To put it bluntly"*, *"It is widely acknowledged that"*).
+
+- **Ví dụ đạt Band 8.0:**
+  > *"The proliferation of social media has **exacerbated** the issue of misinformation, **owing to** the lack of regulation. **Consequently**, governments must **implement stringent policies** to **mitigate** this problem."*
+
+- **Trích dẫn:**
+  > *"The resource is sufficient to allow flexibility and precision. There is some ability to use less common and/or idiomatic items with awareness of style and collocation."* [IELTS Band 7 Descriptors, 2026]
+
+---
+#### **D. Grammatical Range and Accuracy (Phạm vi ngữ pháp và độ chính xác)**
+- **Yêu cầu:**
+  - **Sử dụng đa dạng cấu trúc ngữ pháp** (ít nhất **3–4 loại cấu trúc phức tạp**):
+    - **Câu phức** (complex sentences) với *although, while, because, if*.
+    - **Câu ghép** (compound sentences) với *and, but, so*.
+    - **Câu rút gọn** (reduced clauses): *"Having considered both sides, I conclude that..."*
+    - **Câu bị động** (passive voice): *"It is often argued that..."*
+    - **Mệnh đề quan hệ** (relative clauses): *"The data, which was collected over a decade, suggests..."*
+  - **Ít lỗi ngữ pháp** (sai thì, sai chủ ngữ-động từ, sai mạo từ).
+  - **Dấu câu chính xác** (không thiếu dấu phẩy, dấu chấm).
+
+- **Ví dụ đạt Band 8.0:**
+  > *"Although some people believe that **capital punishment deters crime**, **statistics reveal** that it has **little effect** on reducing criminal activity. **Furthermore**, **it is morally questionable**, as **innocent individuals may be executed**."*
+
+- **Trích dẫn:**
+  > *"A variety of complex structures is used with flexibility and accuracy. Grammar and punctuation are generally well controlled, with error-free sentences being frequent."* [IELTS Band 7 Descriptors, 2026]
+
+---
+
+### **2. Chiến lược viết đạt Band 8.0**
+#### **Bước 1: Phân tích câu hỏi (Task Analysis)**
+- **Xác định loại câu hỏi** (Opinion, Discussion, Problem-Solution, Two-Part Question).
+- **Gạch chân từ khóa** (ví dụ: *"Discuss both views and give your opinion"* → phải thảo luận 2 quan điểm + đưa ra quan điểm cá nhân).
+- **Lập dàn ý** trước khi viết:
+  - **Mở bài:** Paraphrase câu hỏi + nêu quan điểm rõ ràng.
+  - **Thân bài 1:** Ý chính 1 (ví dụ: ủng hộ quan điểm 1) + giải thích + ví dụ.
+  - **Thân bài 2:** Ý chính 2 (ví dụ: ủng hộ quan điểm 2) + giải thích + ví dụ **hoặc** phản bác quan điểm 2.
+  - **Kết luận:** Tóm tắt quan điểm + đề xuất giải pháp (nếu cần).
+
+#### **Bước 2: Viết mở bài (Introduction)**
+- **Công thức:**
+  > *"It is often argued that [paraphrase câu hỏi]. While some people believe [quan điểm 1], others contend that [quan điểm 2]. **Personally, I believe that [quan điểm cá nhân] because of [lý do 1] and [lý do 2]."*
+- **Yêu cầu:**
+  - **Paraphrase** (không copy nguyên câu hỏi).
+  - **Nêu quan điểm rõ ràng** ngay từ đầu.
+
+#### **Bước 3: Viết thân bài (Body Paragraphs)**
+- **Cấu trúc 1 đoạn thân bài:**
+  1. **Topic sentence** (câu chủ đề nêu ý chính).
+  2. **Giải thích** (1–2 câu).
+  3. **Ví dụ** (thực tế hoặc giả định).
+  4. **Liên kết** (nối với đoạn tiếp theo).
+- **Ví dụ:**
+  > *"**Firstly**, the primary advantage of remote work is **enhanced productivity**. **This is because** employees can **avoid distractions** such as office chatter and lengthy commutes. **For instance**, a study by Stanford University found that **telecommuters were 13% more productive** than their office-based counterparts. **Moreover**, this trend **has been accelerated by technological advancements**, such as video conferencing tools."*
+
+#### **Bước 4: Viết kết luận (Conclusion)**
+- **Công thức:**
+  > *"In conclusion, while [tóm tắt quan điểm 1] and [tóm tắt quan điểm 2], **I firmly believe that [quan điểm cá nhân]**. **This is due to [lý do 1] and [lý do 2]**, which **outweigh the drawbacks**."*
+- **Yêu cầu:**
+  - **Không đưa ra ý mới**.
+  - **Tóm tắt quan điểm** một cách rõ ràng.
+
+---
+### **3. Những lỗi thường gặp và cách khắc phục**
+| **Lỗi**               | **Nguyên nhân**               | **Cách khắc phục**                          |
+|-------------------------|--------------------------------|---------------------------------------------|
+| **Lạc đề**              | Không đọc kỹ câu hỏi.         | Gạch chân từ khóa, lập dàn ý trước khi viết.|
+| **Ý mơ hồ**            | Không giải thích rõ ràng.      | Mỗi ý chính phải có **lý do + ví dụ**.     |
+| **Lặp từ**             | Vốn từ hạn hẹp.               | Sử dụng **từ đồng nghĩa**, **đại từ**, **cấu trúc thay thế**. |
+| **Lỗi ngữ pháp**       | Chưa nắm vững ngữ pháp.       | Ôn tập **câu phức**, **mệnh đề quan hệ**, **bị động**. |
+| **Thiếu liên kết**     | Không dùng từ nối.            | Học **20–30 từ nối thông dụng** và luyện tập. |
+| **Quá ngắn/gọn**       | Không phát triển ý.           | Mỗi đoạn thân bài phải **ít nhất 5–6 câu**. |
+
+---
+### **4. Tài liệu tham khảo hữu ích**
+1. **[IELTS Band Descriptors (2023)](https://ielts.org/take-a-test/your-results/ielts-scoring-in-detail)** – Tiêu chuẩn chấm điểm chính thức.
+2. **[100 Real Band 7–9 Essay Samples (2026)](https://www.ieltsadvantage.com/2023/01/15/ielts-writing-task-2-sample-essays/)** – Mẫu bài viết đạt điểm cao.
+3. **[IELTS Band 7 Writing Explained](https://www.ieltsbuddy.com/ielts-band-7.html)** – Phân tích chi tiết tiêu chí Band 7 (làm nền tảng cho Band 8).
+
+---
+### **5. Luyện tập hiệu quả**
+- **Viết 1 bài/ngày** và **tự chấm theo tiêu chí Band 8.0**.
+- **Sử dụng công cụ chấm bài** như:
+  - [IELTS Essay Checker (IELTS Advantage)](https://www.ieltsadvantage.com/ielts-writing-task-2/)
+  - [Grammarly](https://www.grammarly.com/) (kiểm tra ngữ pháp).
+- **Học từ vựng theo chủ đề** (xem [Academic Word List](https://www.ieltsbuddy.com/academic-word-list.html)).
+
+---
+### **Tóm tắt: Checklist đạt Band 8.0**
+✅ **Task Response:**
+- Trả lời đầy đủ câu hỏi + quan điểm rõ ràng + ý phát triển tốt.
+
+✅ **Coherence & Cohesion:**
+- Cấu trúc bài viết logic + từ nối đa dạng + không lỗi liên kết.
+
+✅ **Lexical Resource:**
+- Từ vựng học thuật phong phú + ít lỗi + sử dụng idioms tự nhiên.
+
+✅ **Grammatical Range & Accuracy:**
+- Câu phức đa dạng + ít lỗi ngữ pháp + dấu câu chính xác.
+
+---
+**Lưu ý:** Đạt Band 8.0 đòi hỏi **thời gian luyện tập đều đặn** (ít nhất 3–6 tháng). Hãy tập trung vào **sửa lỗi** và **mở rộng vốn từ/ngữ pháp** thay vì viết quá dài.
+
+[Sources: 5 chunks | via hybrid]
+
+======================================================================
+Q: Coherence & Cohesion Band 9.0 yêu cầu gì?
+======================================================================
+  ⚠ Semantic best score (0.464) < threshold (0.48)
+
+A: Dưới đây là yêu cầu cụ thể cho **Coherence & Cohesion (Tính mạch lạc và gắn kết)** đạt **Band 9.0** trong IELTS Writing Task 2, dựa trên nguồn cung cấp:
+
+---
+
+### **Yêu cầu cho Band 9.0 (Coherence & Cohesion)**
+1. **Tính mạch lạc (Coherence)**:
+   - **Ý tưởng được liên kết logic**: Các ý tưởng trong bài luận phải được sắp xếp theo trình tự hợp lý, từ tổng quan đến chi tiết, hoặc theo cấu trúc luận điểm-phản luận-phản biện (nếu cần).
+   - **Tiến triển rõ ràng**: Bài luận phải có sự phát triển ý tưởng mượt mà, không bị đứt quãng hay lặp lại vô nghĩa.
+   - **Cấu trúc bài luận chặt chẽ**: Bài luận phải tuân theo cấu trúc tiêu chuẩn (Introduction - Body Paragraphs - Conclusion) với các đoạn văn được sắp xếp hợp lý.
+
+   *Trích dẫn*: *"The message can be followed effortlessly. Information and ideas are logically sequenced, and cohesion is well managed."* [IELTS Band Descriptors, 2023]
+
+2. **Tính gắn kết (Cohesion)**:
+   - **Sử dụng đa dạng các phương tiện gắn kết (cohesive devices)**: Sử dụng linh hoạt các từ nối (transitions), đại từ (pronouns), từ thay thế (substitution), và các cụm từ gắn kết (e.g., "Furthermore", "In contrast", "As a result") để tạo sự liên kết giữa các câu và đoạn văn.
+   - **Tránh lặp từ hay lỗi gắn kết**: Việc sử dụng các phương tiện gắn kết phải tự nhiên và không gây chú ý (không bị "gượng ép" hay quá mức).
+   - **Quản lý tham chiếu (referencing) hiệu quả**: Sử dụng đại từ (e.g., "this", "they", "such developments") hoặc từ thay thế (e.g., "the former", "the latter") để tránh lặp từ và duy trì sự rõ ràng.
+
+   *Trích dẫn*: *"Cohesion is used in such a way that it very rarely attracts attention."* [IELTS Band Descriptors, 2023]
+
+3. **Quản lý đoạn văn (Paragraphing)**:
+   - **Đoạn văn có cấu trúc rõ ràng**: Mỗi đoạn văn phải có một ý chính (topic sentence) và các câu hỗ trợ (supporting sentences) liên quan trực tiếp đến ý chính.
+   - **Chuyển đổi giữa các đoạn văn mượt mà**: Sử dụng các từ nối hoặc cụm từ chuyển đoạn (e.g., "On the other hand", "To conclude") để kết nối các đoạn văn với nhau.
+   - **Độ dài cân đối**: Các đoạn văn không nên quá ngắn (chỉ 1-2 câu) hay quá dài (quá 5-6 câu), nhằm đảm bảo sự cân bằng và dễ theo dõi.
+
+   *Trích dẫn*: *"Paragraphing is skilfully managed."* [IELTS Band Descriptors, 2023]
+
+4. **Không có lỗi đáng chú ý**:
+   - **Lỗi tối thiểu**: Các lỗi về gắn kết (e.g., thiếu từ nối, lỗi tham chiếu) hoặc mạch lạc (e.g., ý tưởng không liên quan) phải cực kỳ hiếm hoi và không ảnh hưởng đến sự hiểu bài.
+   - **Tính tự nhiên**: Việc sử dụng các phương tiện gắn kết phải cảm thấy tự nhiên, không gượng ép hay quá mức.
+
+   *Trích dẫn*: *"Any lapses in coherence or cohesion are minimal."* [IELTS Band Descriptors, 2023]
+
+---
+
+### **Ví dụ minh họa (từ nguồn cung cấp)**
+Trong bài luận mẫu về **IT developments** (Document 4), các yếu tố sau thể hiện **Coherence & Cohesion đạt Band 9.0**:
+- **Mạch lạc**:
+  - Đoạn mở bài giới thiệu chủ đề (IT developments) và nêu rõ quan điểm (negative impacts outweigh positive).
+  - Các đoạn thân bài lần lượt trình bày lợi ích (email, World Wide Web) và bất lợi (social isolation, lack of regulation) của IT, với sự phát triển ý tưởng rõ ràng.
+  - Kết luận tóm tắt quan điểm và nhấn mạnh tương lai (future problems need to be addressed).
+
+- **Gắn kết**:
+  - Sử dụng đa dạng từ nối: *"On the positive side"*, *"Nevertheless"*, *"In addition"*, *"In conclusion"*.
+  - Sử dụng đại từ tham chiếu: *"These developments"* (tham chiếu đến IT), *"This"* (tham chiếu đến email).
+  - Quản lý đoạn văn hợp lý: Mỗi đoạn văn tập trung vào một ý chính (e.g., đoạn 1: benefits of email; đoạn 2: drawbacks of email).
+
+---
+
+### **Tóm tắt yêu cầu Band 9.0**
+| Tiêu chí               | Yêu cầu cụ thể                                                                                     |
+|-------------------------|---------------------------------------------------------------------------------------------------|
+| **Tính mạch lạc**       | Ý tưởng liên kết logic, tiến triển rõ ràng, cấu trúc bài luận chặt chẽ.                          |
+| **Tính gắn kết**        | Sử dụng đa dạng phương tiện gắn kết (từ nối, đại từ, từ thay thế) một cách tự nhiên, không lỗi.  |
+| **Quản lý đoạn văn**    | Đoạn văn có cấu trúc rõ ràng, chuyển đổi mượt mà giữa các đoạn, độ dài cân đối.                  |
+| **Lỗi tối thiểu**       | Không có lỗi đáng chú ý về gắn kết hay mạch lạc.                                                 |
+
+*Trích dẫn*: *"The message can be followed effortlessly. Cohesion is used in such a way that it very rarely attracts attention."* [IELTS Band Descriptors, 2023]
+
+[Sources: 5 chunks | via hybrid]
+
+=== STDERR ===
+
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 103/103 [00:00<00:00, 1998.90it/s]
+

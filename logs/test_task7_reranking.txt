@@ -1,0 +1,6 @@
+=== STDOUT ===
+[0.016] Chính sách trả hàng và hoàn tiền Shopee trong 15 ngày
+[0.016] Các phương thức thanh toán hỗ trợ trên Shopee Vietnam
+
+=== STDERR ===
+

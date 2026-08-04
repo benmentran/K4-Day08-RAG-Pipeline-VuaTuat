@@ -1,0 +1,30 @@
+=== STDOUT ===
+==================================================
+Task 4: Chunking & Indexing
+  Chunking: recursive (size=800, overlap=100)
+  Embedding: sentence-transformers/all-MiniLM-L6-v2 (dim=384)
+  Vector Store: chromadb
+==================================================
+
+[OK] Loaded 13 documents
+[OK] Created 560 chunks
+[OK] Embedded 560 chunks
+[OK] Indexed to vector store
+
+=== STDERR ===
+
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|██████████| 103/103 [00:00<00:00, 2237.77it/s]
+
+Batches:   0%|          | 0/18 [00:00<?, ?it/s]
+Batches:   6%|▌         | 1/18 [00:00<00:11,  1.50it/s]
+Batches:  17%|█▋        | 3/18 [00:00<00:03,  4.18it/s]
+Batches:  28%|██▊       | 5/18 [00:00<00:02,  6.47it/s]
+Batches:  39%|███▉      | 7/18 [00:01<00:01,  7.66it/s]
+Batches:  50%|█████     | 9/18 [00:01<00:00,  9.05it/s]
+Batches:  61%|██████    | 11/18 [00:01<00:00, 10.44it/s]
+Batches:  72%|███████▏  | 13/18 [00:01<00:00, 11.90it/s]
+Batches:  83%|████████▎ | 15/18 [00:01<00:00, 13.61it/s]
+Batches: 100%|██████████| 18/18 [00:01<00:00, 16.22it/s]
+Batches: 100%|██████████| 18/18 [00:01<00:00,  9.78it/s]
+
