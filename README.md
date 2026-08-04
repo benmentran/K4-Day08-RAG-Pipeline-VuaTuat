@@ -559,10 +559,11 @@ run_dashboard()
 
 | Thành viên | MSSV | Nhiệm vụ | Trạng thái |
 |-----------|------|----------|------------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Trần Bình Minh | 2A202601434 | Kiến trúc RAG & pipeline supervisor, tích hợp Task 9 | Hoàn thành |
+| Lương Bảo Long | 2A202601682 | Xây dựng eval pipeline & báo cáo nhóm | Đang thực hiện |
+| Tạ Đăng Đức | 2A202601772 | Dữ liệu & pipeline, Task 1-3 + Task 4-5 | Hoàn thành |
+| Trần Kiều Hạnh | 2A202601760 | Đánh giá QA & test suite | Đang thực hiện |
+| Trần An Thắng | 2A202601756 | Chatbot Streamlit UI & Task 10 | Hoàn thành |
 
 ---
 
