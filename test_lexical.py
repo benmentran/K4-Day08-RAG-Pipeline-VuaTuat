@@ -45,14 +45,14 @@ t6.bm25 = build_bm25_index(CORPUS)
 print('Test 1: Tìm kiếm "phương thức thanh toán shopee"')
 results = t6.lexical_search('phương thức thanh toán shopee', top_k=3)
 for r in results:
-    print(f'[{r[\"score\"]:.3f}] {r[\"metadata\"][\"source\"]}: {r[\"content\"][:80]}...')
+    print(f"[{r['score']:.3f}] {r['metadata']['source']}: {r['content'][:80]}...")
 
 print('\nTest 2: Tìm kiếm "hoàn tiền"')
 results = t6.lexical_search('hoàn tiền', top_k=3)
 for r in results:
-    print(f'[{r[\"score\"]:.3f}] {r[\"metadata\"][\"source\"]}: {r[\"content\"][:80]}...')
+    print(f"[{r['score']:.3f}] {r['metadata']['source']}: {r['content'][:80]}...")
 
 print('\nTest 3: Tìm kiếm "ví điện tử"')
 results = t6.lexical_search('ví điện tử', top_k=3)
 for r in results:
-    print(f'[{r[\"score\"]:.3f}] {r[\"metadata\"][\"source\"]}: {r[\"content\"][:80]}...')
+    print(f"[{r['score']:.3f}] {r['metadata']['source']}: {r['content'][:80]}...")

@@ -121,9 +121,16 @@ def pageindex_search(query: str, top_k: int = 5) -> list[dict]:
     if not query or top_k <= 0:
         return []
     if not _DOC_IDS_FILE.exists():
-        raise RuntimeError("Chưa có document ID. Hãy chạy upload_documents() trước.")
-    doc_ids = json.loads(_DOC_IDS_FILE.read_text(encoding="utf-8"))
-    client = _client()
+        return []
+    try:
+        doc_ids = json.loads(_DOC_IDS_FILE.read_text(encoding="utf-8"))
+        client = _client()
+    except (OSError, json.JSONDecodeError, RuntimeError):
+        # PageIndex is an optional remote fallback. A missing key, SDK, or
+        # upload cache must not break the local hybrid retrieval pipeline.
+        return []
+    if not isinstance(doc_ids, dict) or not doc_ids:
+        return []
     results = []
     for name, doc_id in doc_ids.items():
         submitted = _as_dict(client.submit_query(doc_id=doc_id, query=query))

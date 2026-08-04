@@ -96,7 +96,11 @@ def retrieve(
     best_score = dense_results[0]["score"] if dense_results else 0.0
     if best_score < score_threshold:
         print(f"  ⚠ Semantic best score ({best_score:.3f}) < threshold ({score_threshold})")
-        fallback = pageindex_search(query, top_k=top_k)
+        try:
+            fallback = pageindex_search(query, top_k=top_k)
+        except RuntimeError:
+            # PageIndex chưa được upload/index thì giữ kết quả hybrid hiện có.
+            fallback = []
         if fallback:
             return fallback
 

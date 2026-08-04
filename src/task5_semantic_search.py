@@ -102,6 +102,8 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     query_text = _generate_hypothetical_doc(query)
     try:
         collection = _get_collection()
+        if collection.count() == 0:
+            return []
         query_vector = _embed_text(query_text)
     except ImportError:
         # Cho phép test/import chạy khi môi trường chưa cài chromadb hoặc model.
