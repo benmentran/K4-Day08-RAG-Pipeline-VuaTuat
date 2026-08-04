@@ -18,6 +18,10 @@ data/_tmp_pdf/
 pageindex_doc_ids.json
 pageindex_pdfs/
 
+# Standardized IELTS content (untracked)
+data/standardized/legal/
+data/standardized/news/
+
 # IDE
 .vscode/
 .idea/
