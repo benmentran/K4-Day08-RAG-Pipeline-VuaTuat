@@ -1,17 +1,106 @@
 [
   {
-    "question": "Người mua có thể yêu cầu trả hàng/hoàn tiền trong thời hạn bao lâu sau khi nhận hàng?",
-    "expected_answer": "Trong vòng 15 ngày kể từ khi giao hàng thành công (24 giờ đối với thực phẩm tươi sống/đông lạnh).",
-    "expected_context": "Trang Returns and Refunds Policy, mục Return/Refund Eligibility"
+    "question": "Thế nào là tiêu chí Coherence and Cohesion (CC) ở mức Band 7.0 trong IELTS Writing Task 2?",
+    "ground_truth": "Ở Band 7.0 CC, thí sinh tổ chức thông tin và ý tưởng một cách logic, có bố cục đoạn văn rõ ràng. Sử dụng đa dạng các từ nối (cohesive devices) một cách thích hợp, dù đôi lúc có thể bị lặp hoặc dùng hơi gượng ép.",
+    "contexts": [
+      "IELTS Writing Band Descriptors - CC Band 7: Logically organises information and ideas; there is clear progression throughout. Uses a range of cohesive devices appropriately although there may be some under-/over-use. Presents a clear central topic within each paragraph."
+    ]
   },
   {
-    "question": "Shopee hỗ trợ những phương thức thanh toán nào?",
-    "expected_answer": "ShopeePay Wallet, thẻ tín dụng/ghi nợ, trả góp qua thẻ, QR Code, chuyển khoản qua app ngân hàng, thẻ NAPAS, Apple Pay, Google Pay, và COD.",
-    "expected_context": "Trang Payment Methods Overview"
+    "question": "Sự khác biệt chính về vốn từ vựng (Lexical Resource - LR) giữa Band 6.0 và Band 8.0 là gì?",
+    "ground_truth": "Band 6.0 dùng vốn từ đủ để thảo luận chủ đề nhưng còn mắc lỗi chính tả/từ vựng. Band 8.0 sử dụng vốn từ phong phú, mượt mà, dùng chính xác các từ hiếm (uncommon lexical items) và collocations, chỉ thỉnh thoảng mắc lỗi nhỏ.",
+    "contexts": [
+      "LR Band 6: Uses an adequate range of vocabulary for the task; attempts to use less common vocabulary but with some inaccuracy; makes some errors in spelling and/or word formation.",
+      "LR Band 8: Uses a wide range of vocabulary fluently and flexibly to convey precise meanings; skilfully uses uncommon lexical items and collocations with occasional inaccuracies in word choice and collocation."
+    ]
   },
   {
-    "question": "Người bán không được đăng bán những sản phẩm nào?",
-    "expected_answer": "Hàng giả/nhái, sản phẩm bất hợp pháp, vi phạm sở hữu trí tuệ, và các mặt hàng nằm trong danh sách cấm của sàn.",
-    "expected_context": "Trang Product Listing Regulations, mục Prohibited Content"
+    "question": "Lỗi Grammatical Range and Accuracy (GRA) nào khiến bài viết Writing Task 2 bị tụt xuống Band 5.0?",
+    "ground_truth": "Bài viết bị rơi xuống Band 5.0 GRA khi chỉ dùng được các cấu trúc câu đơn giản, cố gắng dùng câu phức nhưng bị sai nhiều, mắc lỗi ngữ pháp/dấu câu thường xuyên làm người đọc khó hiểu.",
+    "contexts": [
+      "GRA Band 5: Uses only a limited range of structures; attempts complex sentences but these tend to be less accurate than simple sentences; may make frequent grammatical errors and punctuation may be faulty; errors cause some difficulty for the reader."
+    ]
+  },
+  {
+    "question": "Tiêu chí Task Response (TR) đòi hỏi gì để bài viết đạt được Band 8.0?",
+    "ground_truth": "Đạt Band 8.0 TR yêu cầu giải quyết đầy đủ tất cả các phần của đề bài, đưa ra lập trường rõ ràng xuyên suốt bài viết, các ý chính được phát triển và hỗ trợ mạnh mẽ, mở rộng logic.",
+    "contexts": [
+      "TR Band 8: Sufficiently addresses all parts of the prompt; presents a well-developed response to the question with relevant, extended and supported ideas; presents a clear position throughout the response."
+    ]
+  },
+  {
+    "question": "Phân tích ưu điểm bài Essay mẫu chủ đề 'Technology in Education' đạt Band 8.0?",
+    "ground_truth": "Bài mẫu Band 8.0 chủ đề Technology in Education có bố cục 4 đoạn chặt chẽ, luận điểm rõ ràng (ví dụ: cá nhân hóa học tập), sử dụng collocations tự nhiên như 'digital literacy', 'paradigm shift', không mắc lỗi chia động từ.",
+    "contexts": [
+      "Sample Essay Analysis - Tech in Edu (Band 8.0): The essay excels in TR by directly answering both prompt questions. LR includes topic-specific collocations ('technological integration', 'foster interactive learning'). GRA shows flawless complex sentence structures."
+    ]
+  },
+  {
+    "question": "Trong IELTS Writing Task 1, tiêu chí Task Achievement (TA) khác gì so với Task Response (TR) của Task 2?",
+    "ground_truth": "TA trong Task 1 đánh giá khả năng tổng hợp, báo cáo số liệu/xu hướng chính và so sánh dữ liệu. Trong khi TR của Task 2 đánh giá khả năng đưa ra quan điểm, luận điểm và lập luận cho một vấn đề xã hội.",
+    "contexts": [
+      "Task 1 vs Task 2 Criteria: Task 1 uses Task Achievement (TA) focusing on selecting key features and describing trend/data accurately. Task 2 uses Task Response (TR) focusing on developing an argument and supporting a position."
+    ]
+  },
+  {
+    "question": "Sử dụng quá nhiều từ nối (Overusing cohesive devices) sẽ bị trừ điểm ở tiêu chí nào và xuống Band mấy?",
+    "ground_truth": "Lỗi lạm dụng hoặc dùng từ nối khiên cưỡng thuộc tiêu chí Coherence and Cohesion (CC) và thường khiến điểm CC bị giới hạn ở mức Band 5.0.",
+    "contexts": [
+      "CC Band 5 Descriptor: Makes inadequate or inaccurate use of cohesive devices; may be repetitive due to lack of substitution or overuse of certain connectors."
+    ]
+  },
+  {
+    "question": "Một bài Essay đạt Band 9.0 overall cần đáp ứng những tiêu chuẩn gì?",
+    "ground_truth": "Band 9.0 yêu cầu trả lời hoàn hảo bài tập, ý tưởng phát triển sâu sắc, văn phong tự nhiên như người bản xứ, vốn từ cực kỳ chuẩn xác và hoàn toàn không có lỗi ngữ pháp/chính tả.",
+    "contexts": [
+      "Overall Band 9 Descriptors: Full response to prompt with sophisticated ideas; seamless paragraphing; natural and effortless use of vocabulary and collocations; error-free grammar and structure throughout."
+    ]
+  },
+  {
+    "question": "Cách sửa lỗi 'Off-topic' (lạc đề) để nâng điểm Task Response từ Band 4.0 lên Band 6.0?",
+    "ground_truth": "Để lên Band 6.0 TR, thí sinh cần đọc kỹ đề, trả lời trực tiếp tất cả các câu hỏi của đề bài (không bỏ sót ý), duy trì lập trường rõ ràng trong suốt bài viết và không đưa ví dụ xa rời thực tế.",
+    "contexts": [
+      "TR Improvement Guide: Band 4 responses address the prompt only partially or are off-topic. To reach Band 6, ensure every prompt constraint is answered, state a clear main opinion in the introduction, and back it up with relevant examples."
+    ]
+  },
+  {
+    "question": "Bài mẫu IELTS Writing Task 2 dạng 'Agree or Disagree' về chủ đề 'Universal Basic Income' thuộc Band mấy và tại sao?",
+    "ground_truth": "Bài mẫu thuộc Band 7.5 vì trả lời rõ góc nhìn (Disagree), sử dụng tốt các từ vựng học thuật ('economic safety net', 'inflationary pressure'), tuy nhiên một ý ở đoạn 2 phát triển chưa sâu.",
+    "contexts": [
+      "Essay Review - Universal Basic Income: Rated Band 7.5. Strong clear stance against UBI. Excellent vocabulary range. Paragraph 2 supporting point on worker motivation needs slightly deeper elaboration to hit Band 8.0."
+    ]
+  },
+  {
+    "question": "Dùng các từ như 'Nowadays', 'In a nutshell', 'Every coin has two sides' có bị trừ điểm Lexical Resource không?",
+    "ground_truth": "Có, các từ này bị coi là học thuộc lòng (cliché/memorised phrasing). Dùng quá nhiều từ dạng này khiến giám khảo đánh giá vốn từ thiếu tự nhiên, khó vượt quá Band 6.0 LR.",
+    "contexts": [
+      "IELTS Examiner Guidance on LR: Avoid overused clichés like 'In a nutshell' or 'Nowadays'. Memorised templates lower the score for Lexical Resource as they demonstrate a lack of flexible, natural language use."
+    ]
+  },
+  {
+    "question": "Cấu trúc đoạn văn chuẩn (PEEL framework) giúp cải thiện tiêu chí nào trong Band Descriptors?",
+    "ground_truth": "Mô hình PEEL (Point - Explanation - Example - Link) giúp cải thiện đồng thời tiêu chí Coherence & Cohesion (tăng tính kết nối) và Task Response (phát triển luận điểm đầy đủ).",
+    "contexts": [
+      "PEEL Method Impact: Structuring paragraphs using PEEL enhances Coherence & Cohesion through logical progression and strengthens Task Response by ensuring each point is fully explained and supported."
+    ]
+  },
+  {
+    "question": "Tiêu chí chấm điểm IELTS Speaking có giống hệt IELTS Writing không?",
+    "ground_truth": "Không giống hệt. Speaking chấm 4 tiêu chí: Fluency & Coherence, Lexical Resource, Grammatical Range & Accuracy, và Pronunciation. Writing chấm: TR/TA, CC, LR, và GRA.",
+    "contexts": [
+      "Speaking vs Writing Criteria: Speaking evaluates Fluency & Coherence (FC), Lexical Resource (LR), Grammatical Range & Accuracy (GRA), and Pronunciation (P). Writing uses TR/TA, CC, LR, GRA."
+    ]
+  },
+  {
+    "question": "Làm thế nào để tăng điểm Grammatical Range mà không mắc lỗi sai?",
+    "ground_truth": "Kết hợp linh hoạt giữa câu đơn, câu ghép (and, but, so) và câu phức (dùng mệnh đề quan hệ, mệnh đề nhượng bộ 'Although/Even though', mệnh đề điều kiện 'If') một cách chính xác thay vì cố dùng câu quá dài.",
+    "contexts": [
+      "GRA Band 7+ Strategy: Show a variety of complex structures (relative clauses, adverbial clauses) accurately. Accuracy in complex sentences is key to moving from Band 6.0 to Band 7.0+."
+    ]
+  },
+  {
+    "question": "Hướng dẫn đăng ký thi IELTS tại IDP hoặc British Council cần chuẩn bị những gì?",
+    "ground_truth": "Xin lỗi, tôi là Trợ Lý Tra Cứu Tiêu Chí Chấm Điểm IELTS & Essay Mẫu. Tôi chỉ hỗ trợ phân tích Band Descriptors, chữa bài và gợi ý bài mẫu. Bạn vui lòng truy cập website chính thức của IDP/BC để xem thủ tục đăng ký thi.",
+    "contexts": []
   }
 ]
